@@ -1,2 +1,3 @@
 # sundayCoffee
-A place for ideas.
+
+Check out the Wiki to discuss/add ideas.
